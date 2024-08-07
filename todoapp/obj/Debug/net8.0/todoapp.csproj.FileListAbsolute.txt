@@ -1,0 +1,14 @@
+d:\Projects\todoapp_c\todoapp\bin\Debug\net8.0\todoapp.exe
+d:\Projects\todoapp_c\todoapp\bin\Debug\net8.0\todoapp.deps.json
+d:\Projects\todoapp_c\todoapp\bin\Debug\net8.0\todoapp.runtimeconfig.json
+d:\Projects\todoapp_c\todoapp\bin\Debug\net8.0\todoapp.dll
+d:\Projects\todoapp_c\todoapp\bin\Debug\net8.0\todoapp.pdb
+d:\Projects\todoapp_c\todoapp\obj\Debug\net8.0\todoapp.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projects\todoapp_c\todoapp\obj\Debug\net8.0\todoapp.AssemblyInfoInputs.cache
+d:\Projects\todoapp_c\todoapp\obj\Debug\net8.0\todoapp.AssemblyInfo.cs
+d:\Projects\todoapp_c\todoapp\obj\Debug\net8.0\todoapp.csproj.CoreCompileInputs.cache
+d:\Projects\todoapp_c\todoapp\obj\Debug\net8.0\todoapp.dll
+d:\Projects\todoapp_c\todoapp\obj\Debug\net8.0\refint\todoapp.dll
+d:\Projects\todoapp_c\todoapp\obj\Debug\net8.0\todoapp.pdb
+d:\Projects\todoapp_c\todoapp\obj\Debug\net8.0\todoapp.genruntimeconfig.cache
+d:\Projects\todoapp_c\todoapp\obj\Debug\net8.0\ref\todoapp.dll
